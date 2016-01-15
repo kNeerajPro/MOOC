@@ -1,0 +1,17 @@
+Collections in Python
+List-  surrounded by square brackets - items can be of different type in a list, lists are mutable unline strings which are immutable, function - len can be used for list as well. 
+range function - range(4) - creates a range - 0,1,2,3
+for i in range(len(friends)):
+	friend = firends[i]
+	print 'yo basic program'
+
+Concatenate strings using '+'
+using dir - you can use to print functions available in library.
+list() - empty list
+append - .append, .append , .append
+questions - item in <list_object> , item not in <list_object>
+sort function - sorting is in place
+len, max, min, sum
+docs.python.org/lib/built-in-funcs.html
+convert strings to list - <string-object>.split()
+

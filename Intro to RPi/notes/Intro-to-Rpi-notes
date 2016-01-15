@@ -1,0 +1,21 @@
+Registers - fast and expensive, usually 32 to 62, faster the CPU cycle
+Cache - slower then register, fairly expensive and fast - 1 clock cycles
+Main memory - not as same chip as CPU or microporcessor or microcontroller, different board-multiple chips, memory access-100 clock cycle of processor.
+
+mahine code(0s, 1s) - assembly language(1 to 1 mapping more readable)
+high level language  - Python - interpreted where program converts to mahine code every time compared to compiled languages like Java where which are compiled and converted to mahine code/executable and then can be run.
+
+Operating Systems -
+R pi - Rasbian - 1 Gig hertz while arduino doesn't have that much clock cycles to support an iOS.
+
+Multiple Tasks - write different programmes which can be scheduled and managed by Operating Systems.
+
+
+
+
+
+
+
+
+
+

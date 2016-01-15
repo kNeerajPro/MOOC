@@ -1,0 +1,8 @@
+File handling in Python
+Steps- 
+1) Open a file - open() returns a file handle, signature - open(<filename>, <mode>)
+2) newline character - '\n' - characters
+3) print lines - for line in fileHandle: print line
+4) fileHandle.read() - read function which will read the whole data and return a string. Should not be done if the file is big it will use too much memory.
+5) searching through a file - line.startswith('From:'). Remove newline character from the line end - line.rstrip()
+6) 

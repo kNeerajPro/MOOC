@@ -1,0 +1,12 @@
+1) blinking LED - GPIO basics, Pubnub basics, controlling an LED from RPi.
+2) Stream Photo/video from camera module of Rpi and write an Android app to show that stream on phone - Give it to parents so they can check live into what I am doing in bedroom.
+  - Hardware - camera module, power adapter for RPi,
+  - Software - a web server to stream data to and show that stream on Android/iPhone app. - I am sure some 3rd party servers must be there to stream videos through internet.
+
+
+3) A ring based IOT device to so that if women clutch it hard it will be send out signals to their loved ones and optionally to the nearest police station with sending their location almost every minute.
+ - Issues 
+  - Battery? How would such an device have battery and how it is suppose to recharge and how often.
+  - How will it connect to Internet. Through Phone like an Apple watch? or some 3G chip or something.
+  - can it access location on its own without phone? if it cannot then it defeats the purpose because phone needs to be around. Usually attackers snatch the phone and break it.
+   - Cost and size? Needs to be cheaper and small to that everybody can afford it and small enough to miss the eyes of attackers.
